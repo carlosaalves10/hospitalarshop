@@ -1,0 +1,13 @@
+{
+    "responsive-layout.mobile#sobre":{
+    "children":[
+        "rich-text#sobre-title-phone"
+    ]
+},
+
+"rich-text#sobre-title-phone":{
+    "props":{
+        "text": "Sobre Nós \n\n A empresa HospitalarShop fundada em 2021, está localizada em Vila Nova Conceição, São Paulo. Com o propósito de oferecer à população produtos essenciais à saúde em loja física e através de plataformas de e-commerce, constantemente busca as melhores marcas do mercado para melhorar a qualidade de vida das pessoas. Estamos à disposição para ajudá-lo(a), entre em contato através de nossos canais de comunicação e será um prazer atendê-lo(a)."
+    }
+}
+}

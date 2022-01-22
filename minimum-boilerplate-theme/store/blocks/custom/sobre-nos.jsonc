@@ -1,0 +1,8 @@
+{
+    "store.custom#sobre-nos":{
+        "children":[
+            "responsive-layout.desktop#sobre",
+            "responsive-layout.mobile#sobre"
+        ]
+    }
+}

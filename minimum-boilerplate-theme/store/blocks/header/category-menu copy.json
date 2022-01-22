@@ -1,0 +1,360 @@
+{
+  "vtex.menu@2.x:menu#mob-category-menu": {
+    "props": {
+      "orientation": "vertical",
+      "experimentalOptimizeRendering": true
+    },
+    "children": [
+      "menu-item#acessibilidade",
+      "menu-item#cuidados",
+      "menu-item#curativos",
+      "menu-item#diabetes",
+      "menu-item#equip-med"
+    ]
+  },
+
+  "menu-item#acessibilidade":{
+    "props": {
+      "id": "menu-item-category-acessibilidade",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/acessibilidade-e-mobilidade",
+        "noFollow": false,
+        "tagTitle": "ACESSIBILIDADE E MOBILIDADE",
+        "text": "ACESSIBILIDADE E MOBILIDADE"
+      }
+    },
+    "blocks": [
+      "vtex.menu@2.x:submenu#category-acessibilidade"
+    ]
+  },
+  "vtex.menu@2.x:submenu#category-acessibilidade": {
+    "props": {
+      "width": "auto"
+    },
+    "children": [
+      "vtex.menu@2.x:menu#category-acessibilidade"
+    ]
+  },
+  "vtex.menu@2.x:menu#category-acessibilidade": {
+    "props": {
+      "orientation": "vertical"
+    },
+    "children": [ 
+      "menu-item#andador",
+      "menu-item#assentos",
+      "menu-item#barras-de-apoio",
+      "menu-item#bengalas",
+      "menu-item#cadeira-de-banho",
+      "menu-item#cadeira-de-rodas",
+      "menu-item#estetica",
+      "menu-item#estabilizador",
+      "menu-item#forracao",
+      "menu-item#guinchos",
+      "menu-item#muletas"
+    ]
+  },
+  
+
+  "menu-item#cuidados":{
+    "props": {
+      "id": "menu-item-category-cuidados",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/cuidados-pessoais",
+        "noFollow": false,
+        "tagTitle": "CUIDADOS PESSOAIS",
+        "text": "CUIDADOS PESSOAIS"
+      }
+    },
+    "blocks": [
+      "vtex.menu@2.x:submenu#category-cuidados"
+    ]
+  },
+  "vtex.menu@2.x:submenu#category-cuidados": {
+    "props": {
+      "width": "auto"
+    },
+    "children": [
+      "vtex.menu@2.x:menu#category-cuidados"
+    ]
+  },
+  "vtex.menu@2.x:menu#category-cuidados": {
+    "props": {
+      "orientation": "vertical"
+    },
+    "children": [
+      "menu-item#calcados",
+      "menu-item#calcanheiras",
+      "menu-item#conforto",
+      "menu-item#gestantes",
+      "menu-item#massageadores",
+      "menu-item#palmilhas",
+      "menu-item#podologia",
+      "menu-item#travesseiros"
+    ]
+  },
+
+
+  "menu-item#curativos":{
+    "props": {
+      "id": "menu-item-category-curativos",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/curativos",
+        "noFollow": false,
+        "tagTitle": "CURATIVOS",
+        "text": "CURATIVOS"
+      }
+    },
+    "blocks": [
+      "vtex.menu@2.x:submenu#category-curativos"
+    ]
+  },
+  "vtex.menu@2.x:submenu#category-curativos": {
+    "props": {
+      "width": "auto"
+    },
+    "children": [
+      "vtex.menu@2.x:menu#category-curativos"
+    ]
+  },
+  "vtex.menu@2.x:menu#category-curativos": {
+    "props": {
+      "orientation": "vertical"
+    },
+    "children": [
+      "menu-item#algodao",
+      "menu-item#antissepticos",
+      "menu-item#ataduras",
+      "menu-item#chumacos",
+      "menu-item#compressas-de-gases",
+      "menu-item#curativo-especiais",
+      "menu-item#curativo-ocular",
+      "menu-item#esparadrapo",
+      "menu-item#fita-microporosa"
+    ]
+  },
+
+  "menu-item#diabetes":{
+    "props": {
+      "id": "menu-item-category-diabetes",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/diabetes",
+        "noFollow": false,
+        "tagTitle": "DIABETES",
+        "text": "DIABETES"
+      }
+    },
+    "blocks": [
+      "vtex.menu@2.x:submenu#category-diabetes"
+    ]
+  },
+  "vtex.menu@2.x:submenu#category-diabetes": {
+    "props": {
+      "width": "auto"
+    },
+    "children": [
+      "vtex.menu@2.x:menu#category-diabetes"
+    ]
+  },
+  "vtex.menu@2.x:menu#category-diabetes": {
+    "props": {
+      "orientation": "vertical"
+    },
+    "children": [
+      "menu-item#agulhas-de-insulina",
+      "menu-item#canetas-de-insulina",
+      "menu-item#glicosimetros",
+      "menu-item#lancetas",
+      "menu-item#seringas-de-insulina",
+      "menu-item#tiras-de-testes"      
+    ]
+  },
+
+  "menu-item#equip-med":{
+    "props": {
+      "id": "menu-item-category-equip-med",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/equipamentos-medicos",
+        "noFollow": false,
+        "tagTitle": "EQUIPAMENTOS MÉDICOS",
+        "text": "EQUIPAMENTOS MÉDICOS"
+      }
+    },
+    "blocks": [
+      "vtex.menu@2.x:submenu#category-equipamentos-medicos"
+    ]
+  },
+  "vtex.menu@2.x:submenu#category-equipamentos-medicos": {
+    "props": {
+      "width": "auto"
+    },
+    "children": [
+      "vtex.menu@2.x:menu#category-equipamentos-medicos"
+    ]
+  },
+  "vtex.menu@2.x:menu#category-equipamentos-medicos": {
+    "props": {
+      "orientation": "vertical"
+    },
+    "children": [
+      "menu-item#acessorios-de-equipamentos",
+      "menu-item#aparelho-de-pressao",
+      "menu-item#balancas",
+      "menu-item#detector-fetal",
+      "menu-item#estetoscopios",
+      "menu-item#lanterna-clinica",
+      "menu-item#maletas",
+      "menu-item#oftalmoscopios",
+      "menu-item#otoscopios",
+      "menu-item#oximetros",
+      "menu-item#termometros"
+    ]
+  },
+
+
+  "menu-item#est-limp":{
+    "props": {
+      "id": "menu-item-category-est-limp",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/esterilizacao-e-limpeza",
+        "noFollow": false,
+        "tagTitle": "ESTERILIZAÇÃO E LIMPEZA",
+        "text": "ESTERILIZAÇÃO E LIMPEZA"
+      }
+    },
+    "blocks": [
+      "vtex.menu@2.x:submenu#category-est-limp"
+    ]
+  },
+  "vtex.menu@2.x:submenu#category-est-limp": {
+    "props": {
+      "width": "auto"
+    },
+    "children": [
+      "vtex.menu@2.x:menu#category-est-limp"
+    ]
+  },
+  "vtex.menu@2.x:menu#category-est-limp": {
+    "props": {
+      "orientation": "vertical"
+    },
+    "children": [
+      "menu-item#altoclaves",
+      "menu-item#controle-de-esterilizacao",
+      "menu-item#incubadoras",
+      "menu-item#limpeza",
+      "menu-item#saneantes",
+      "menu-item#seladoras"
+    ]
+  },
+  
+
+  "menu-item#estetica":{
+    "props": {
+      "id": "menu-item-category-estetica",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/estetica",
+        "noFollow": false,
+        "tagTitle": "ESTÉTICA",
+        "text": "ESTÉTICA"
+      }
+    },
+    "blocks": [
+      "vtex.menu@2.x:submenu#category-estetica"
+    ]
+  },
+  "vtex.menu@2.x:submenu#category-estetica": {
+    "props": {
+      "width": "auto"
+    },
+    "children": [
+      "vtex.menu@2.x:menu#category-estetica"
+    ]
+  },
+  "vtex.menu@2.x:menu#category-estetica": {
+    "props": {
+      "orientation": "vertical"
+    },
+    "children": [
+      "menu-item#aparelho-de-estetica",
+      "menu-item#modeladores",
+      "menu-item#produtos-de-beleza"
+    ]
+  },
+
+  "menu-item#fit":{
+    "props": {
+      "id": "menu-item-category-fit",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/fisioterapia-e-fitness",
+        "noFollow": false,
+        "tagTitle": "FISIOTERAPIA E FITNESS",
+        "text": "FISIOTERAPIA E FITNESS"
+      }
+    },
+    "blocks": [
+      "vtex.menu@2.x:submenu#category-fit"
+    ]
+  },
+  "vtex.menu@2.x:submenu#category-fit": {
+    "props": {
+      "width": "auto"
+    },
+    "children": [
+      "vtex.menu@2.x:menu#category-fit"
+    ]
+  },
+  "vtex.menu@2.x:menu#category-fit": {
+    "props": {
+      "orientation": "vertical"
+    },
+    "children": [
+      "menu-item#aparelhos",
+      "menu-item#avaliacao-e-medicao",
+      "menu-item#bicicletas",
+      "menu-item#cinesioterapia",
+      "menu-item#colchonetes",
+      "menu-item#eletroterapia",
+      "menu-item#esportes",
+      "menu-item#fisioterapia-respiratoria",
+      "menu-item#gel",
+      "menu-item#hidroterapia",
+      "menu-item#infravermelho",
+      "menu-item#pilates",
+      "menu-item#posicionadores"
+    ]
+  }
+}
+
+ 

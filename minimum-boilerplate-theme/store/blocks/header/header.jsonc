@@ -1,0 +1,124 @@
+{
+  "header": {
+    "blocks": [
+      "header-layout.desktop",
+      "header-layout.mobile"
+    ]
+  },
+
+  "header.full": {
+    "blocks": [
+      "header-layout.desktop",
+      "header-layout.mobile"
+    ]
+  },
+  "header-layout.desktop": {
+    "children": [
+      "header-border",
+      "header-row#1-desktop"
+      /*"vtex.menu@2.x:menu#category-menu",
+      "vtex.menu@2.x:menu#category-menu#2"*/
+    ]
+  },
+  "header-row#1-desktop": {
+    "props": {
+      "fullWidth": true,
+      "inverted": true,
+      "sticky": true
+    },
+    "children": [
+      "logo",
+      "header-spacer", 
+      "search-bar",
+      "header-spacer", 
+      "locale-switcher",
+      "minicart.v2",
+      "login"
+    ]
+  },
+
+
+  "login": {
+    "props": {
+      "emailAndPasswordTitle": "LOG-IN",
+      "accessCodeTitle": "Acess Code LOG-IN",
+      "emailPlaceholder": "e-mail",
+      "passwordPlaceholder": "password",
+      "showPasswordVerificationIntoTooltip": true,
+      "showIconProfile": true
+    }
+  },
+
+
+  "logo": {
+    "props": {
+      "title": "Logo",
+      "href": "/",
+      "url": "https://raw.githubusercontent.com/carlosaalves10/hospitalarshop/main/minimum-boilerplate-theme/assets/imgs/LOGO-hospitalarshop.png",
+      "width": "150"
+    }
+  },
+  "search-bar": {
+    "props": {
+      "maxWidth": "40%",
+      "placeholder": "BUSCAR"
+    }
+  },
+
+  "header-layout.mobile":{
+    "children": [
+      "header-border",
+      "header-row#1-mobile"
+      /*"vtex.menu@2.x:menu#category-menu",*/
+      /*"vtex.menu@2.x:menu#mob-category-menu",
+      "vtex.menu@2.x:menu#mob-category-menu#2"*/
+    ]
+  },
+
+  "header-row#1-mobile": {
+    "props": {
+      "fullWidth": true,
+      "inverted": true,
+      "sticky": true
+    },
+    "children": [
+      "logo#mobile",
+      "header-spacer",
+      // "flex-layout.col#spacer",
+      "search-bar#mob",
+      "header-spacer", 
+      // "flex-layout.col#spacer",
+      "locale-switcher",
+      "minicart.v2",
+      "login#mob"
+    ]
+},
+
+"login#mob": {
+  "props": {
+    "emailAndPasswordTitle": "LOG-IN",
+    "accessCodeTitle": "Acess Code LOG-IN",
+    "emailPlaceholder": "e-mail",
+    "passwordPlaceholder": "password",
+    "showPasswordVerificationIntoTooltip": true,
+    "showIconProfile": true
+  }
+},
+
+
+"logo#mobile": {
+  "props": {
+    "title": "Logo#mob",
+    "href": "/",
+    "url": "https://raw.githubusercontent.com/carlosaalves10/hospitalarshop/main/minimum-boilerplate-theme/assets/imgs/LOGO-hospitalarshop.png",
+    "width": "150"
+  }
+},
+"search-bar#mob": {
+  "props": {
+    "maxWidth": "40%",
+    "placeholder": "BUSCAR"
+  }
+}
+}
+

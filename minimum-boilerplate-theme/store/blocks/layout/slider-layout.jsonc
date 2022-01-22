@@ -1,0 +1,571 @@
+{
+"slider-layout#home": {
+    "children": ["image#brand1", "image#brand2", "image#brand3", "image#brand4", 
+      "image#brand5", "image#brand6",
+      "image#brand7", "image#brand8", "image#brand9", "image#brand10", "image#brand11",
+      "image#brand12", "image#brand13", "image#brand14", "image#brand15", "image#brand16",
+      "image#brand17", "image#brand18", "image#brand19", "image#brand20", "image#brand21",
+      "image#brand22", "image#brand23", "image#brand24", "image#brand25", "image#brand26",
+      "image#brand27", "image#brand28", "image#brand29", "image#brand30", "image#brand31",
+      "image#brand32", "image#brand33", "image#brand34", "image#brand35", "image#brand36",
+      "image#brand37", "image#brand38", "image#brand39", "image#brand40", "image#brand41",
+      "image#brand42", "image#brand43", "image#brand44", "image#brand45",
+      "image#brand46", "image#brand47", "image#brand48", "image#brand49",
+      "image#brand50", "image#brand51", "image#brand52", "image#brand53",
+      "image#brand54", "image#brand55", "image#brand56", "image#brand57",
+      "image#brand58", "image#brand60", "image#brand61",
+      "image#brand62", "image#brand63", "image#brand64", "image#brand65",
+      "image#brand66", "image#brand67", "image#brand68", "image#brand69"],
+    "props": {
+      "autoplay": {
+        "timeout": 5000,
+        "stopOnHover": false
+      }
+    }
+  },
+
+  "image#brand1": {
+    "props": {
+      "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/10/logotipo20210917040925.png",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand2": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/35/logotipo20210903040904.png",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand3": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/50/logotipo20210903040930.png",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand4": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/39/logotipo20210917040957.png",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand5": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/77/logotipo20210903040920.png",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand6": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/58/logotipo20210903040907.jpg",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand7": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/7/logotipo20210903040914.png",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand8": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/131/logotipo20210917040943.png",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand9": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/12/logotipo20210914100946.jpg",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand10": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/27/logotipo20210903040922.png",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand11": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/57/logotipo20210914090934.png",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand12": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/59/logotipo20210914090937.jpg",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand13": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/101/logotipo20210914090948.jpg",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand14": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/23/logotipo20210914100948.png",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand15": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/46/logotipo20210914100923.png",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand16": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/72/logotipo20210914100957.png",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand17": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/55/logotipo20210914100903.png",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand18": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/44/logotipo20210914100959.png",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand19": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/31/logotipo20210827020817.jpg",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand20": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/81/logotipo20210914090935.jpg",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand21": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/106/logotipo20210914100918.png",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand22": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/73/logotipo20210914100953.png",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand23": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/29/logotipo20210914100949.jpg",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand24": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/11/logotipo20210914110910.png",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand25": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/19/logotipo20210914110901.png",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand26": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/64/logotipo20210914110958.png",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand27": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/33/logotipo20210914110955.png",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand28": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/14/logotipo20210914110949.png",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand29": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/100/logotipo20210914110958.png",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand30": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/108/logotipo20210914110905.png",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand31": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/13/logotipo20210914110928.png",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand32": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/115/logotipo20210914100913.jpg",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand33": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/66/logotipo20210914110953.png",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand34": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/49/logotipo20210917040954.png",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand35": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/21/logotipo20210914110957.png",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand36": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/40/logotipo20210914110906.png",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand37": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/62/logotipo20210914110931.png",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand38": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/99/logotipo20210914100932.jpg",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand39": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/56/logotipo20210914110945.jpg",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand40": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/25/logotipo20210914110937.png",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand41": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/67/logotipo20210914110954.png",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand42": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/53/logotipo20210914110909.png",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand43": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/79/logotipo20210914110959.png",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand44": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/102/logotipo20210914100953.png",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand45": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/41/logotipo20210826110819.jpg",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand46": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/87/logotipo20210827110822.jpg",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand47": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/60/logotipo20210827110818.jpg",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand48": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/93/logotipo20210903030931.png",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand49": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/117/logotipo20210914100930.png",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand50": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/8/logotipo20210827110816.jpg",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand51": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/65/logotipo20210827110837.jpg",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand52": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/61/logotipo20210827110849.jpg",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand53": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/24/logotipo20210827110828.jpg",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand54": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/80/logotipo20210827120816.jpg",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand55": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/30/logotipo20210827010829.jpg",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand56": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/42/logotipo20210827010801.jpg",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand57": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/98/logotipo20210903040959.png",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand58": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/47/logotipo20210827010853.jpg",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand60": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/52/logotipo20210827010837.jpg",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand61": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/76/logotipo20210827010817.jpg",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand62": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/84/logotipo20210827010842.jpg",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand63": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/17/logotipo20210827010801.jpg",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand64": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/91/logotipo20210903040942.png",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand65": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/114/logotipo20210914100902.png",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand66": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/5/logotipo20210827100856.jpg",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand67": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/78/logotipo20210827010828.jpg",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand68": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/16/logotipo20210827010840.jpg",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  },
+
+  "image#brand69": {
+    "props": {
+        "src": "https://www.basedeappoio.com.br/arquivos/FABRICANTES/83/logotipo20210827010820.jpg",
+      "isFullModeStyle": true,
+      "textPosition": "center"
+    }
+  }
+
+}

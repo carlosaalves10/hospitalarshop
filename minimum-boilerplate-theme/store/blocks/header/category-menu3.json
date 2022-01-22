@@ -1,0 +1,529 @@
+{
+    "menu-item#andador":{
+        "props": {
+          "id": "menu-item-category-andador",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/andador",
+            "noFollow": false,
+            "tagTitle": "ANDADOR",
+            "text": "ANDADOR"
+          }
+        }
+      },
+    
+    "menu-item#assentos":{
+    "props": {
+      "id": "menu-item-category-assentos",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/assentos",
+        "noFollow": false,
+        "tagTitle": "ASSENTOS",
+        "text": "ASSENTOS"
+      }
+    }
+  },
+
+  "menu-item#barras-de-apoio":{
+    "props": {
+      "id": "menu-item-category-barras-de-apoio",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/barras-de-apoio",
+        "noFollow": false,
+        "tagTitle": "BARRAS DE APOIO",
+        "text": "BARRAS DE APOIO"
+      }
+    }
+  },
+
+  "menu-item#bengalas":{
+    "props": {
+      "id": "menu-item-category-bengalas",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/bengalas",
+        "noFollow": false,
+        "tagTitle": "BENGALAS",
+        "text": "BENGALAS"
+      }
+    }
+  },
+
+  "menu-item#cadeira-de-banho":{
+    "props": {
+      "id": "menu-item-category-cadeira-de-banho",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/cadeira-de-banho",
+        "noFollow": false,
+        "tagTitle": "CADEIRA DE BANHO",
+        "text": "CADEIRA DE BANHO"
+      }
+    }
+  },
+
+  "menu-item#cadeira-de-rodas":{
+    "props": {
+      "id": "menu-item-category-cadeira-de-rodas",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/cadeira-de-rodas",
+        "noFollow": false,
+        "tagTitle": "CADEIRA DE RODAS",
+        "text": "CADEIRA DE RODAS"
+      }
+    }
+  },
+
+  "menu-item#estabilizador":{
+    "props": {
+      "id": "menu-item-category-estabilizador",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/estabilizador",
+        "noFollow": false,
+        "tagTitle": "ESTABILIZADOR",
+        "text": "ESTABILIZADOR"
+      }
+    }
+  },
+
+  "menu-item#forracao":{
+    "props": {
+      "id": "menu-item-category-forracao",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/forracao",
+        "noFollow": false,
+        "tagTitle": "FORRAÇÃO",
+        "text": "FORRAÇÃO"
+      }
+    }
+  },
+
+  "menu-item#guinchos":{
+    "props": {
+      "id": "menu-item-category-guinchos",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/guinchos",
+        "noFollow": false,
+        "tagTitle": "GUINCHOS",
+        "text": "GUINCHOS"
+      }
+    }
+  },
+
+  "menu-item#muletas":{
+    "props": {
+      "id": "menu-item-category-muletas",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/muletas",
+        "noFollow": false,
+        "tagTitle": "MULETAS",
+        "text": "MULETAS"
+      }
+    }
+  },
+
+  "menu-item#calcados":{
+    "props": {
+      "id": "menu-item-category-calcados",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/calcados",
+        "noFollow": false,
+        "tagTitle": "CALÇADOS",
+        "text": "CALÇADOS"
+      }
+    }
+  },
+
+  "menu-item#calcanheiras":{
+    "props": {
+      "id": "menu-item-category-calcanheiras",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/calcanheiras",
+        "noFollow": false,
+        "tagTitle": "CALCANHEIRAS",
+        "text": "CALCANHEIRAS"
+      }
+    }
+  },
+
+  "menu-item#conforto":{
+    "props": {
+      "id": "menu-item-category-conforto",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/conforto",
+        "noFollow": false,
+        "tagTitle": "CONFORTO",
+        "text": "CONFORTO"
+      }
+    }
+  },
+
+  "menu-item#gestantes":{
+    "props": {
+      "id": "menu-item-category-gestantes",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/gestantes",
+        "noFollow": false,
+        "tagTitle": "GESTANTES",
+        "text": "GESTANTES"
+      }
+    }
+  },
+
+  "menu-item#massageadores":{
+    "props": {
+      "id": "menu-item-category-massageadores",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/massageadores",
+        "noFollow": false,
+        "tagTitle": "MASSAGEADORES",
+        "text": "MASSAGEADORES"
+      }
+    }
+  },
+
+  "menu-item#palmilhas":{
+    "props": {
+      "id": "menu-item-category-palmilhas",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/palmilhas",
+        "noFollow": false,
+        "tagTitle": "PALMILHAS",
+        "text": "PALMILHAS"
+      }
+    }
+  },
+
+  "menu-item#podologia":{
+    "props": {
+      "id": "menu-item-category-podologia",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/podologia",
+        "noFollow": false,
+        "tagTitle": "PODOLOGIA",
+        "text": "PODOLOGIA"
+      }
+    }
+  },
+
+  "menu-item#travesseiros":{
+    "props": {
+      "id": "menu-item-category-travesseiros",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/travesseiros",
+        "noFollow": false,
+        "tagTitle": "TRAVESSEIROS",
+        "text": "TRAVESSEIROS"
+      }
+    }
+  },
+
+  "menu-item#algodao":{
+    "props": {
+      "id": "menu-item-category-algodao",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/algodao",
+        "noFollow": false,
+        "tagTitle": "ALGODÃO",
+        "text": "ALGODÃO"
+      }
+    }
+  },
+
+  "menu-item#antissepticos":{
+    "props": {
+      "id": "menu-item-category-antissepticos",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/antissepticos",
+        "noFollow": false,
+        "tagTitle": "ANTISSÉPTICOS",
+        "text": "ANTISSÉPTICOS"
+      }
+    }
+  },
+
+  "menu-item#ataduras":{
+    "props": {
+      "id": "menu-item-category-ataduras",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/ataduras",
+        "noFollow": false,
+        "tagTitle": "ATADURAS",
+        "text": "ATADURAS"
+      }
+    }
+  },
+
+  "menu-item#chumacos":{
+    "props": {
+      "id": "menu-item-category-chumacos",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/chumacos",
+        "noFollow": false,
+        "tagTitle": "CHUMAÇOS",
+        "text": "CHUMAÇOS"
+      }
+    }
+  },
+
+  "menu-item#compressas-de-gases":{
+    "props": {
+      "id": "menu-item-category-compressas-de-gases",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/compressas-de-gases",
+        "noFollow": false,
+        "tagTitle": "COMPRESSAS DE GASES",
+        "text": "COMPRESSAS DE GASES"
+      }
+    }
+  },
+
+  "menu-item#curativo-especiais":{
+    "props": {
+      "id": "menu-item-category-curativo-especiais",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/curativo-especiais",
+        "noFollow": false,
+        "tagTitle": "CURATIVOS ESPECIAIS",
+        "text": "CURATIVOS ESPECIAIS"
+      }
+    }
+  },
+
+  "menu-item#curativo-ocular":{
+    "props": {
+      "id": "menu-item-category-curativo-ocular",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/curativo-ocular",
+        "noFollow": false,
+        "tagTitle": "CURATIVO OCULAR",
+        "text": "CURATIVO OCULAR"
+      }
+    }
+  },
+
+  "menu-item#esparadrapo":{
+    "props": {
+      "id": "menu-item-category-esparadrapo",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/esparadrapo",
+        "noFollow": false,
+        "tagTitle": "ESPARADRAPO",
+        "text": "ESPARADRAPO"
+      }
+    }
+  },
+
+  "menu-item#fita-microporosa":{
+    "props": {
+      "id": "menu-item-category-fita-microporosa",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/fita-microporosa",
+        "noFollow": false,
+        "tagTitle": "FITA MICROPOROSA",
+        "text": "FITA MICROPOROSA"
+      }
+    }
+  },
+
+  "menu-item#agulhas-de-insulina":{
+    "props": {
+      "id": "menu-item-category-agulhas-de-insulina",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/agulhas-de-insulina",
+        "noFollow": false,
+        "tagTitle": "AGULHAS DE INSULINA",
+        "text": "AGULHAS DE INSULINA"
+      }
+    }
+  },
+
+  "menu-item#canetas-de-insulina":{
+    "props": {
+      "id": "menu-item-category-canetas-de-insulina",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/canetas-de-insulina",
+        "noFollow": false,
+        "tagTitle": "CANETAS DE INSULINA",
+        "text": "CANETAS DE INSULINA"
+      }
+    }
+  },
+
+  "menu-item#glicosimetros":{
+    "props": {
+      "id": "menu-item-category-glicosimetros",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/glicosimetros",
+        "noFollow": false,
+        "tagTitle": "GLICOSÍMETROS",
+        "text": "GLICOSÍMETROS"
+      }
+    }
+  },
+
+  "menu-item#lancetas":{
+    "props": {
+      "id": "menu-item-category-lancetas",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/lancetas",
+        "noFollow": false,
+        "tagTitle": "LANCETAS",
+        "text": "LANCETAS"
+      }
+    }
+  },
+
+  "menu-item#seringas-de-insulina":{
+    "props": {
+      "id": "menu-item-category-seringas-de-insulina",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/seringas-de-insulina",
+        "noFollow": false,
+        "tagTitle": "SERINGAS DE INSULINA",
+        "text": "SERINGAS DE INSULINA"
+      }
+    }
+  },
+
+  "menu-item#tiras-de-testes":{
+    "props": {
+      "id": "menu-item-category-tiras-de-testes",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/tiras-de-testes",
+        "noFollow": false,
+        "tagTitle": "TIRAS DE TESTES",
+        "text": "TIRAS DE TESTES"
+      }
+    }
+  }
+}
