@@ -1,8 +1,0 @@
-{
-    "store.custom#fale-conosco":{
-        "children":[
-            "responsive-layout.desktop#fale",
-            "responsive-layout.mobile#fale"
-        ]
-    }
-}

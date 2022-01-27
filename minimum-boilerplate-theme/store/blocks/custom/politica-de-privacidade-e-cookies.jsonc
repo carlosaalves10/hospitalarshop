@@ -1,8 +1,0 @@
-{
-    "store.custom#politica-de-privacidade-e-cookies":{
-        "children":[
-            "responsive-layout.desktop#politica-de-privacidade-e-cookies",
-            "responsive-layout.mobile#politica-de-privacidade-e-cookies"
-        ]
-    }
-}

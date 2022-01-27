@@ -1,8 +1,0 @@
-{
-    "store.custom#pagamento-e-entregas":{
-        "children":[
-            "responsive-layout.desktop#pagamento",
-            "responsive-layout.mobile#pagamento"
-        ]
-    }
-}
