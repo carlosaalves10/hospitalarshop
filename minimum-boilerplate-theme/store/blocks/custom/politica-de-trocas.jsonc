@@ -1,0 +1,8 @@
+{
+    "store.custom#politica-de-trocas":{
+        "children":[
+            "responsive-layout.desktop#politica-de-trocas",
+            "responsive-layout.mobile#politica-de-trocas"
+        ]
+    }
+}

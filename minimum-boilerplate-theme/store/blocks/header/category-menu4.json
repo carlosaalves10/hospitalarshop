@@ -1,0 +1,833 @@
+{
+    "menu-item#acessorios-de-equipamentos":{
+        "props": {
+          "id": "menu-item-category-acessorios-de-equipamentos",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/acessorios-de-equipamentos",
+            "noFollow": false,
+            "tagTitle": "ACESSÓRIOS DE EQUIPAMENTOS",
+            "text": "ACESSÓRIOS DE EQUIPAMENTOS"
+          }
+        }
+      },
+    
+    "menu-item#aparelho-de-pressao":{
+    "props": {
+      "id": "menu-item-category-aparelho-de-pressao",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/aparelho-de-pressao",
+        "noFollow": false,
+        "tagTitle": "APARELHO DE PRESSÃO",
+        "text": "APARELHO DE PRESSÃO"
+      }
+    }
+  },
+
+  "menu-item#balancas":{
+    "props": {
+      "id": "menu-item-category-balancas",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/balancas",
+        "noFollow": false,
+        "tagTitle": "BALANÇAS",
+        "text": "BALANÇAS"
+      }
+    }
+  },
+
+  "menu-item#detector-fetal":{
+    "props": {
+      "id": "menu-item-category-detector-fetal",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/detector-fetal",
+        "noFollow": false,
+        "tagTitle": "DETECTOR FETAL",
+        "text": "DETECTOR FETAL"
+      }
+    }
+  },
+
+  "menu-item#estetoscopios":{
+    "props": {
+      "id": "menu-item-category-estetoscopios",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/estetoscopios",
+        "noFollow": false,
+        "tagTitle": "ESTETOSCÓPIOS",
+        "text": "ESTETOSCÓPIOS"
+      }
+    }
+  },
+
+  "menu-item#lanterna-clinica":{
+    "props": {
+      "id": "menu-item-category-lanterna-clinica",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/lanterna-clinica",
+        "noFollow": false,
+        "tagTitle": "LANTERNA CLÍNICA",
+        "text": "LANTERNA CLÍNICA"
+      }
+    }
+  },
+
+  "menu-item#maletas":{
+    "props": {
+      "id": "menu-item-category-maletas",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/maletas",
+        "noFollow": false,
+        "tagTitle": "MALETAS",
+        "text": "MALETAS"
+      }
+    }
+  },
+
+  "menu-item#oftalmoscopios":{
+    "props": {
+      "id": "menu-item-category-oftalmoscopios",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/oftalmoscopios",
+        "noFollow": false,
+        "tagTitle": "OFTALMOSCÓPIOS",
+        "text": "OFTALMOSCÓPIOS"
+      }
+    }
+  },
+
+  "menu-item#otoscopios":{
+    "props": {
+      "id": "menu-item-category-otoscopios",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/otoscopios",
+        "noFollow": false,
+        "tagTitle": "OTOSCÓPIOS",
+        "text": "OTOSCÓPIOS"
+      }
+    }
+  },
+
+  "menu-item#oximetros":{
+    "props": {
+      "id": "menu-item-category-oximetros",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/oximetros",
+        "noFollow": false,
+        "tagTitle": "OXÍMETROS",
+        "text": "OXÍMETROS"
+      }
+    }
+  },
+
+  "menu-item#termometros":{
+    "props": {
+      "id": "menu-item-category-termometros",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/termometros",
+        "noFollow": false,
+        "tagTitle": "TERMÔMETROS",
+        "text": "TERMÔMETROS"
+      }
+    }
+  },
+
+  "menu-item#altoclaves":{
+    "props": {
+      "id": "menu-item-category-altoclaves",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/altoclaves",
+        "noFollow": false,
+        "tagTitle": "ALTOCLAVES",
+        "text": "ALTOCLAVES"
+      }
+    }
+  },
+
+  "menu-item#controle-de-esterilizacao":{
+    "props": {
+      "id": "menu-item-category-controle-de-esterilizacao",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/controle-de-esterilizacao",
+        "noFollow": false,
+        "tagTitle": "CONTROLE DE ESTERILIZAÇÃO",
+        "text": "CONTROLE DE ESTERILIZAÇÃO"
+      }
+    }
+  },
+
+  "menu-item#incubadoras":{
+    "props": {
+      "id": "menu-item-category-incubadoras",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/incubadoras",
+        "noFollow": false,
+        "tagTitle": "INCUBADORAS",
+        "text": "INCUBADORAS"
+      }
+    }
+  },
+
+  "menu-item#limpeza":{
+    "props": {
+      "id": "menu-item-category-limpeza",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/limpeza",
+        "noFollow": false,
+        "tagTitle": "LIMPEZA",
+        "text": "LIMPEZA"
+      }
+    }
+  },
+
+  "menu-item#saneantes":{
+    "props": {
+      "id": "menu-item-category-saneantes",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/saneantes",
+        "noFollow": false,
+        "tagTitle": "SANEANTES",
+        "text": "SANEANTES"
+      }
+    }
+  },
+
+  "menu-item#seladoras":{
+    "props": {
+      "id": "menu-item-category-seladoras",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/seladoras",
+        "noFollow": false,
+        "tagTitle": "SELADORAS",
+        "text": "SELADORAS"
+      }
+    }
+  },
+
+  "menu-item#aparelho-de-estetica":{
+    "props": {
+      "id": "menu-item-category-aparelho-de-estetica",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/aparelho-de-estetica",
+        "noFollow": false,
+        "tagTitle": "APARELHO DE ESTÉTICA",
+        "text": "APARELHO DE ESTÉTICA"
+      }
+    }
+  },
+
+  "menu-item#modeladores":{
+    "props": {
+      "id": "menu-item-category-modeladores",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/modeladores",
+        "noFollow": false,
+        "tagTitle": "MODELADORES",
+        "text": "MODELADORES"
+      }
+    }
+  },
+
+  "menu-item#produtos-de-beleza":{
+    "props": {
+      "id": "menu-item-category-produtos-de-beleza",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/produtos-de-beleza",
+        "noFollow": false,
+        "tagTitle": "PRODUTOS DE BELEZA",
+        "text": "PRODUTOS DE BELEZA"
+      }
+    }
+  },
+
+  "menu-item#aparelhos":{
+    "props": {
+      "id": "menu-item-category-aparelhos",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/aparelhos",
+        "noFollow": false,
+        "tagTitle": "APARELHOS",
+        "text": "APARELHOS"
+      }
+    }
+  },
+
+  "menu-item#avaliacao-e-medicao":{
+    "props": {
+      "id": "menu-item-category-avaliacao-e-medicao",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/avaliacao-e-medicao",
+        "noFollow": false,
+        "tagTitle": "AVALIAÇÃO E MEDIÇÃO",
+        "text": "AVALIAÇÃO E MEDIÇÃO"
+      }
+    }
+  },
+
+  "menu-item#bicicletas":{
+    "props": {
+      "id": "menu-item-category-bicicletas",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/bicicletas",
+        "noFollow": false,
+        "tagTitle": "BICICLETAS",
+        "text": "BICICLETAS"
+      }
+    }
+  },
+
+  "menu-item#cinesioterapia":{
+    "props": {
+      "id": "menu-item-category-cinesioterapia",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/cinesioterapia",
+        "noFollow": false,
+        "tagTitle": "CINESIOTERAPIA",
+        "text": "CINESIOTERAPIA"
+      }
+    }
+  },
+
+  "menu-item#colchonetes":{
+    "props": {
+      "id": "menu-item-category-colchonetes",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/colchonetes",
+        "noFollow": false,
+        "tagTitle": "COLCHONETES",
+        "text": "COLCHONETES"
+      }
+    }
+  },
+
+  "menu-item#eletroterapia":{
+    "props": {
+      "id": "menu-item-category-eletroterapia",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/eletroterapia",
+        "noFollow": false,
+        "tagTitle": "ELETROTERAPIA",
+        "text": "ELETROTERAPIA"
+      }
+    }
+  },
+
+  "menu-item#esportes":{
+    "props": {
+      "id": "menu-item-category-esportes",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/esportes",
+        "noFollow": false,
+        "tagTitle": "ESPORTES",
+        "text": "ESPORTES"
+      }
+    }
+  },
+
+  "menu-item#fisioterapia-respiratoria":{
+    "props": {
+      "id": "menu-item-category-fisioterapia-respiratoria",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/fisioterapia-respiratoria",
+        "noFollow": false,
+        "tagTitle": "FISIOTERAPIA RESPIRATÓRIA",
+        "text": "FISIOTERAPIA RESPIRATÓRIA"
+      }
+    }
+  },
+
+  "menu-item#gel":{
+    "props": {
+      "id": "menu-item-category-gel",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/gel",
+        "noFollow": false,
+        "tagTitle": "GEL",
+        "text": "GEL"
+      }
+    }
+  },
+
+  "menu-item#hidroterapia":{
+    "props": {
+      "id": "menu-item-category-hidroterapia",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/hidroterapia",
+        "noFollow": false,
+        "tagTitle": "HIDROTERAPIA",
+        "text": "HIDROTERAPIA"
+      }
+    }
+  },
+
+  "menu-item#infravermelho":{
+    "props": {
+      "id": "menu-item-category-infravermelho",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/infravermelho",
+        "noFollow": false,
+        "tagTitle": "INFRAVERMELHO",
+        "text": "INFRAVERMELHO"
+      }
+    }
+  },
+
+  "menu-item#pilates":{
+    "props": {
+      "id": "menu-item-category-pilates",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/pilates",
+        "noFollow": false,
+        "tagTitle": "PILATES",
+        "text": "PILATES"
+      }
+    }
+  },
+
+  "menu-item#posicionadores":{
+    "props": {
+      "id": "menu-item-category-posicionadores",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/posicionadores",
+        "noFollow": false,
+        "tagTitle": "POSICIONADORES",
+        "text": "POSICIONADORES"
+      }
+    }
+  },
+
+  "menu-item#DIU":{
+    "props": {
+      "id": "menu-item-category-DIU",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/DIU",
+        "noFollow": false,
+        "tagTitle": "DIU",
+        "text": "DIU"
+      }
+    }
+  },
+
+  "menu-item#equipamentos":{
+    "props": {
+      "id": "menu-item-category-equipamentos",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/equipamentos",
+        "noFollow": false,
+        "tagTitle": "EQUIPAMENTOS",
+        "text": "EQUIPAMENTOS"
+      }
+    }
+  },
+
+  "menu-item#escova-cervical":{
+    "props": {
+      "id": "menu-item-category-escova-cervical",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/escova-cervical",
+        "noFollow": false,
+        "tagTitle": "ESCOVA CERVICAL",
+        "text": "ESCOVA CERVICAL"
+      }
+    }
+  },
+
+  "menu-item#especulo-vaginal":{
+    "props": {
+      "id": "menu-item-category-especulo-vaginal",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/especulo-vaginal",
+        "noFollow": false,
+        "tagTitle": "ESPÉCULO VAGINAL",
+        "text": "ESPÉCULO VAGINAL"
+      }
+    }
+  },
+
+  "menu-item#cuidados-no-leito":{
+    "props": {
+      "id": "menu-item-category-cuidados-no-leito",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/cuidados-no-leito",
+        "noFollow": false,
+        "tagTitle": "CUIDADOS NO LEITO",
+        "text": "CUIDADOS NO LEITO"
+      }
+    }
+  },
+
+  "menu-item#fralda-geriatrica":{
+    "props": {
+      "id": "menu-item-category-fralda-geriatrica",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/fralda-geriatrica",
+        "noFollow": false,
+        "tagTitle": "FRALDA GERIÁTRICA",
+        "text": "FRALDA GERIÁTRICA"
+      }
+    }
+  },
+
+  "menu-item#incontinencia-urinaria":{
+    "props": {
+      "id": "menu-item-category-incontinencia-urinaria",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/incontinencia-urinaria",
+        "noFollow": false,
+        "tagTitle": "INCONTINÊNCIA URINÁRIA",
+        "text": "INCONTINÊNCIA URINÁRIA"
+      }
+    }
+  },
+
+  "menu-item#ostomias":{
+    "props": {
+      "id": "menu-item-category-ostomias",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/ostomias",
+        "noFollow": false,
+        "tagTitle": "OSTOMIAS",
+        "text": "OSTOMIAS"
+      }
+    }
+  },
+
+  "menu-item#afastadores":{
+    "props": {
+      "id": "menu-item-category-afastadores",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/afastadores",
+        "noFollow": false,
+        "tagTitle": "AFASTADORES",
+        "text": "AFASTADORES"
+      }
+    }
+  },
+
+  "menu-item#cabo-de-bisturi":{
+    "props": {
+      "id": "menu-item-category-cabo-de-bisturi",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/cabo-de-bisturi",
+        "noFollow": false,
+        "tagTitle": "CABO DE BISTURI",
+        "text": "CABO DE BISTURI"
+      }
+    }
+  },
+
+  "menu-item#cubas":{
+    "props": {
+      "id": "menu-item-category-cubas",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/cubas",
+        "noFollow": false,
+        "tagTitle": "CUBAS",
+        "text": "CUBAS"
+      }
+    }
+  },
+
+  "menu-item#estojos":{
+    "props": {
+      "id": "menu-item-category-estojos",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/estojos",
+        "noFollow": false,
+        "tagTitle": "ESTOJOS",
+        "text": "ESTOJOS"
+      }
+    }
+  },
+
+  "menu-item#instrumental-ortopedico":{
+    "props": {
+      "id": "menu-item-category-instrumental-ortopedico",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/instrumental-ortopedico",
+        "noFollow": false,
+        "tagTitle": "INSTRUMENTAL ORTOPÉDICO",
+        "text": "INSTRUMENTAL ORTOPÉDICO"
+      }
+    }
+  },
+
+  "menu-item#instrumental-ginecologico-obstetrico":{
+    "props": {
+      "id": "menu-item-category-instrumental-ginecologico-obstetrico",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/instrumental-ginecologico-obstetrico",
+        "noFollow": false,
+        "tagTitle": "INSTRUMENTAL GINECOLÓGICO OBSTÉTRICO",
+        "text": "INSTRUMENTAL GINECOLÓGICO OBSTÉTRICO"
+      }
+    }
+  },
+
+  "menu-item#pincas":{
+    "props": {
+      "id": "menu-item-category-pincas",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/pincas",
+        "noFollow": false,
+        "tagTitle": "PINÇAS",
+        "text": "PINÇAS"
+      }
+    }
+  },
+
+  "menu-item#porta-agulha":{
+    "props": {
+      "id": "menu-item-category-porta-agulha",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/porta-agulha",
+        "noFollow": false,
+        "tagTitle": "PORTA AGULHA",
+        "text": "PORTA AGULHA"
+      }
+    }
+  },
+
+  "menu-item#tesouras":{
+    "props": {
+      "id": "menu-item-category-tesouras",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/tesouras",
+        "noFollow": false,
+        "tagTitle": "TESOURAS",
+        "text": "TESOURAS"
+      }
+    }
+  },
+
+  "menu-item#lencol":{
+    "props": {
+      "id": "menu-item-category-lencol",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/lencol",
+        "noFollow": false,
+        "tagTitle": "LENÇOL",
+        "text": "LENÇOL"
+      }
+    }
+  },
+
+  "menu-item#papel-toalha":{
+    "props": {
+      "id": "menu-item-category-papel-toalha",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/papel-toalha",
+        "noFollow": false,
+        "tagTitle": "PAPEL TOALHA",
+        "text": "PAPEL TOALHA"
+      }
+    }
+  }
+}

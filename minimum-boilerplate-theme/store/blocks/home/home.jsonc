@@ -1,0 +1,221 @@
+{
+  "store.home": { 
+    "blocks": [
+      "responsive-layout.desktop#desktop",
+      "responsive-layout.mobile#mobile2",
+      "slider-layout#1",
+      "responsive-layout.desktop#desktop3",
+      "responsive-layout.mobile#mobile3",
+      "flex-layout.row#shelf",
+      "responsive-layout.desktop#desktop2", 
+      "responsive-layout.mobile#mobile",
+      "slider-layout#home",
+      "info-card",
+      "back-to-top-button"
+    ]
+  },
+
+  "responsive-layout.desktop#desktop": {
+    "children": ["vtex.menu@2.x:menu#category-menu",
+      "vtex.menu@2.x:menu#category-menu#2"]
+  },
+
+  "responsive-layout.desktop#desktop2": {
+    "children": ["rich-text#desktop"]
+  },
+
+  "responsive-layout.desktop#desktop3": {
+    "children": ["rich-text#desktop3"]
+  },
+
+  "responsive-layout.desktop#desktop4": {
+    "children": ["image#example"]
+  },
+  
+  "responsive-layout.mobile#mobile": {
+    "children": ["rich-text#mobile"]
+  },
+
+  "responsive-layout.mobile#mobile2": {
+    "children": ["vtex.menu@2.x:menu#mob-category-menu",
+      "vtex.menu@2.x:menu#mob-category-menu#2"]
+  },
+
+  "responsive-layout.mobile#mobile3": {
+    "children": ["rich-text#mobile3"]
+  },
+
+  "responsive-layout.mobile#mobile4": {
+    "children": ["image#example"]
+  },
+  
+"flex-layout.row#shelf":{
+  "children":["list-context.product-list#shelf"]
+},
+
+"list-context.product-list#shelf":{
+  "props":{
+    "maxItems": 100},
+  "blocks":["product-summary.shelf"],
+  "children":["slider-layout#shelf"]
+},
+
+"image#example": {
+  "props": {
+    "isFullModeStyle": true,
+    "width": 2000,
+      "height": 300,
+    "src": "https://raw.githubusercontent.com/carlosaalves10/base-de-apoio1/main/assets/imgs/2.png"
+  }
+},
+
+"product-summary.shelf": {
+  "children": [
+    "product-summary-name",
+    "product-summary-description",
+    "product-summary-image",
+    "product-summary-price",
+    "product-summary-sku-selector",
+    "product-summary-buy-button"
+  ]
+},
+
+"slider-layout#shelf": {
+  "props": {
+      "itemsPerPage": {
+          "desktop": 4,
+          "tablet": 3,
+          "phone": 1
+      },
+      "infinite": true,
+      "fullWidth": true,
+      "blockClass": "shelf-home",
+      "showNavigationArrows": "always",
+      "showPaginationDots": "always"
+  }
+},
+
+
+  "rich-text#desktop": {
+    "props": {
+      "text": "# As melhores marcas você só encontra aqui. \n",
+      "textPosition": "CENTER",
+      "textAlignment": "CENTER"
+    }
+  },
+
+  "rich-text#desktop3": {
+    "props": {
+      "text": "# Veja alguns de nossos produtos. \n",
+      "textPosition": "CENTER",
+      "textAlignment": "CENTER"
+    }
+  },
+  
+  "rich-text#mobile": {
+    "props": {
+      "text": "# As melhores marcas você só encontra aqui. \n",
+      "textPosition": "CENTER",
+      "textAlignment": "CENTER"
+    }
+  },
+
+  "rich-text#mobile3": {
+    "props": {
+      "text": "# Veja alguns de nossos produtos. \n",
+      "textPosition": "CENTER",
+      "textAlignment": "CENTER"
+    }
+  },
+
+  "back-to-top-button":{
+        "props":{
+          "displayThreshold": 800
+        }
+      },
+    
+
+  "info-card": {
+    "props": {
+      "id": "info-card-example",
+      "isFullModeStyle": false,
+      "textPosition": "left",
+      "imageUrl": "https://raw.githubusercontent.com/carlosaalves10/hospitalarshop/main/minimum-boilerplate-theme/assets/imgs/ehr-1476525_1280.png",
+      "headline": "Hospitalar Shop é o marketplace que você precisa! Conheça nossos produtos.",
+      "callToActionText": "VEJA NOSSA LISTA",
+      "callToActionUrl": "#",
+      "blockClass": "info-card-example",
+      "textAlignment": "center"
+    }
+  },
+
+  "tab-layout": {
+    "children": [
+      "tab-list",
+      "tab-content"
+    ]
+  },
+
+  "tab-list": {
+    "children": [
+      "tab-list.item#1",
+      "tab-list.item#2"
+      ]
+  },
+
+  "tab-content": {
+    "children": [
+      "tab-content.item#1",
+      "tab-content.item#2"
+      ]
+  },
+
+  "tab-list.item#1": {
+    "props": {
+      "tabId": "Lorem Ipsum",
+      "label": "Lorem Ipsum",
+      "defaultActiveTab": true
+    }
+  },
+  "tab-list.item#2": {
+    "props": {
+      "tabId": "Lorem Ipsum",
+      "label": "Lorem Ipsum"
+    }
+  },
+
+  "tab-content.item#1": {
+    "children": [
+      "rich-text#1"
+    ],
+    "props": {
+      "tabId": "Lorem Ipsum"
+    }
+  },
+  "tab-content.item#2": {
+    "children": [
+      "rich-text#2"
+    ],
+    "props": {
+      "tabId": "Lorem Ipsum"
+    }
+  },
+
+  "rich-text#1": {
+    "props": {
+      "text": "Lorem Ipsum",
+      "textPosition": "CENTER",
+      "font": "t-heading-3"
+    }
+  },
+  "rich-text#2": {
+    "props": {
+      "text": "Lorem Ipsum",
+      "textPosition": "CENTER",
+      "font": "t-heading-3"
+    }
+  }
+}
+
+
+

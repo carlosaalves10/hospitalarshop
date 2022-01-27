@@ -1,0 +1,13 @@
+{
+    "responsive-layout.desktop#politica-de-trocas":{
+        "children":[
+            "rich-text#politica-de-trocas-title-desk"
+        ]
+    },
+    
+    "rich-text#politica-de-trocas-title-desk":{
+        "props":{
+            "text": "\n\n Política de Trocas e Devoluções \n\n Nosso compromisso é sua total satisfação nas compras realizadas em nosso site. Visando a uma parceria de respeito e confiança, criamos a Política de Troca e Devolução, com base no Código de Defesa do Consumidor. Se não desejar mais nenhum dos produtos, iremos estornar os valores pagos. Caso o pagamento tenha sido realizado via boleto bancário, o reembolso será feito através de depósito na conta corrente do titular do cadastro em nosso site. Para isso, vamos precisar que nos informe o seu CPF, nome do banco, número da agência e número da conta corrente. Caso o pagamento tenha sido realizado através do cartão de crédito, solicitaremos o estorno à administradora do seu cartão no prazo de 2 (dois) dias úteis. Esse estorno poderá ocorrer em até duas faturas subsequentes, devido à data de fechamento da sua fatura de cartão de crédito. Lembramos que esse é um procedimento da administradora financeira. \n\n Qual o prazo para conclusão da devolução ou troca do meu pedido? \n\n Temos até 30 (trinta) dias, contados a partir da retirada do produto no endereço em que o pedido foi entregue, para verificar se a solicitação preenche os requisitos da nossa Política de Troca e Devolução. \n\n Quem fará a coleta do meu pedido? \n\n A combinar. \n\n Nosso compromisso é sua total satisfação nas compras realizadas em nosso site. Visando a uma parceria de respeito e confiança, criamos a Política de Troca e Devolução, com base no Código de Defesa do Consumidor. As mercadorias podem ser trocadas ou devolvidas até 7 dias após o recebimento, por motivo de desistência, arrependimento, avaria ou entrega do produto em desacordo com o pedido realizado. Para isso, entre em contato com o Serviço de Relacionamento da HospitalarShop através do telefone  (42) 3532-4661, pelo Whatsapp  (42) 9806-1415 ou por Email – bigarelli@hospitalarshop.com.br, e informe o número do pedido e o código do produto a ser trocado, ambos descritos na nota fiscal, ao lado do nome da mercadoria e qual o motivo da solicitação. A troca será realizada somente se o produto estiver em perfeito estado, dentro da caixa, com a etiqueta da fixada."
+        }
+    }
+}
